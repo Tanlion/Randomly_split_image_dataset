@@ -3,7 +3,9 @@ This code is for spliting a whole image dataset with its annotation data into 't
 
 The original data folder dir is like below:
 
+
 └── folder
+
     ├── Image
     │   └── 00001.jpg
     │   └── 00002.jpg
@@ -18,7 +20,9 @@ The original data folder dir is like below:
     
 The target dir would be like this:
 
+
 └── folder
+
     ├── train
     │   └── 00011.jpg
     │   └── 00032.jpg
